@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="gitimages/happy.png" width="100%">
 </p>
 
 
