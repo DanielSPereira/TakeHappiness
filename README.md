@@ -13,16 +13,6 @@
   <img alt="Happy" src="gitimages/happy.png" width="100%">
 </p>
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw3-discovery-happy?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw3-discovery-happy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars"> 
-
-</p>
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
