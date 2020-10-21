@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "PORT=3001 nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",

@@ -5,7 +5,6 @@ const pages = require('./pages.js');
 
 // iniciando o express
 const server = express();
-const port = process.env.PORT || 5500;
 
 server
     // utilizar body so req
@@ -26,4 +25,4 @@ server
     .post('/save-orphanage', pages.saveOrphanage)
 
     // ligar o servidor
-    .listen(port);
+    .listen(5500);
