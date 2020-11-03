@@ -1,4 +1,4 @@
-<a  target="_blank" align="center" > Take a look: https://takehappiness.herokuapp.com/ </a>
+<h2 align="center" > Take a look: https://takehappiness.herokuapp.com/ </h2>
 
 <h1 align="center">
     <img alt="Happy" title="Happy" src="gitimages/logo.svg" />
